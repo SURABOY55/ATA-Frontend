@@ -1,0 +1,10 @@
+/* styles.css */
+.table th {
+  text-align: center;
+}
+
+@media (max-width: 767px) {
+  .d-md-table-cell {
+    display: none !important;
+  }
+}
